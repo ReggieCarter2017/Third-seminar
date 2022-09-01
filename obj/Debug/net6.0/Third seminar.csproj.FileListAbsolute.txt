@@ -1,0 +1,15 @@
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\Third seminar.csproj.AssemblyReference.cache
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\Third seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\Third seminar.AssemblyInfoInputs.cache
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\Third seminar.AssemblyInfo.cs
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\Third seminar.csproj.CoreCompileInputs.cache
+C:\Users\coolp\Desktop\C#\Third seminar\bin\Debug\net6.0\Third seminar.exe
+C:\Users\coolp\Desktop\C#\Third seminar\bin\Debug\net6.0\Third seminar.deps.json
+C:\Users\coolp\Desktop\C#\Third seminar\bin\Debug\net6.0\Third seminar.runtimeconfig.json
+C:\Users\coolp\Desktop\C#\Third seminar\bin\Debug\net6.0\Third seminar.dll
+C:\Users\coolp\Desktop\C#\Third seminar\bin\Debug\net6.0\Third seminar.pdb
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\Third seminar.dll
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\refint\Third seminar.dll
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\Third seminar.pdb
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\Third seminar.genruntimeconfig.cache
+C:\Users\coolp\Desktop\C#\Third seminar\obj\Debug\net6.0\ref\Third seminar.dll
