@@ -1,29 +1,12 @@
-﻿string Reverse(int number)
+﻿double Distance()
 {
-    int[] array = number.ToString().Select(o=> Convert.ToInt32(o) - 48 ).ToArray();
-    string arrayReversed = String.Empty;
-    int length = array.Length;
-    for (int i = length; i > 0; i--)
-    {
-        arrayReversed += array[i-1];
-
-    }
-    return arrayReversed;
-}
-int num = 0;
-int.TryParse(Console.ReadLine(), out num);
-string checkNumber = Reverse(num);
-string num_string = "";
-num_string = num.ToString();
-
-string Check(string B)
-{
-    string a = "true";
-    string b = "false";
-    if (B == num_string)
-    return a;
-    else
-    return b;
+    int[] size = new int[3];
+    int[] size2 = new int[3];
+    double result = 0;
+        for (int i = 0; i < size.Length; i++) size[i] = Convert.ToInt32(Console.ReadLine());
+        for (int i = 0; i < size.Length; i++) size2[i] = Convert.ToInt32(Console.ReadLine());
+    result = Math.Sqrt((Math.Pow(size[0] - size2[0], 2)) + (Math.Pow(size[1] - size2[1], 2)) + (Math.Pow(size[2] - size2[2], 2)));
+    return result;
 }
 
-Console.Write($"{num} -> {Reverse(num)} -> {Check(checkNumber)}");
+Console.Write(Distance());
